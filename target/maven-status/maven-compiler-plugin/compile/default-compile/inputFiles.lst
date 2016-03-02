@@ -1,0 +1,11 @@
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/adaptor/Adaptor.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/langproc/AutoReplaceDocumentFilter.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/langproc/style/EnglishStyleAutoCorrector.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/command/CommandDelete.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/command/Command.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/langproc/typos/SpanishTyposDataSource.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/proxy/Proxy.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/command/CommandWrite.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/langproc/style/SpanishStyleAutoCorrector.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/view/GuordMainFrame.java
+/Users/JuanHerrera/Documents/PDSW/DesignPatterns_Structural_WordProcessor/src/main/java/edu/eci/pdsw/wordprocessor/langproc/typos/EnglishTyposDataSource.java

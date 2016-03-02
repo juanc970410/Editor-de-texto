@@ -1,0 +1,13 @@
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame$1.class
+edu/eci/pdsw/wordprocessor/adaptor/Adaptor.class
+edu/eci/pdsw/wordprocessor/langproc/style/EnglishStyleAutoCorrector.class
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame$6.class
+edu/eci/pdsw/wordprocessor/langproc/typos/EnglishTyposDataSource.class
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame$2.class
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame$3.class
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame$4.class
+edu/eci/pdsw/wordprocessor/langproc/style/SpanishStyleAutoCorrector.class
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame.class
+edu/eci/pdsw/wordprocessor/proxy/Proxy.class
+edu/eci/pdsw/wordprocessor/langproc/typos/SpanishTyposDataSource.class
+edu/eci/pdsw/wordprocessor/view/GuordMainFrame$5.class
